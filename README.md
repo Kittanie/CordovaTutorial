@@ -23,7 +23,7 @@ To use Cordova's cross-platform Command Line Interface/CLI:
 
 The -g tag will install cordova globally/on the entire machine rather than in the node_modules subdirectory of the current working directly. 
 
-===
+
 ## Installation Android
 
 Download the Android SDK:
