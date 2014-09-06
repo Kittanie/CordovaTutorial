@@ -13,6 +13,18 @@ Check in DOS or whatever command line tool you are using
 So mine is - v0.10.29
 
 ===
+
+Make sure to have Apache-Ant Installed:
+(http://ant.apache.org/)
+
+Also make sure to delcare this in your enviroment variable/path.
+
+Check the version in command line
+(ant -version)
+
+So mine is version 1.9.4 
+
+===
 To use Cordova's cross-platform Command Line Interface/CLI:
 
 * on OS X:
