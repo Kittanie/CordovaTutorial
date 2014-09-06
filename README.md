@@ -23,6 +23,7 @@ To use Cordova's cross-platform Command Line Interface/CLI:
 
 The -g tag will install cordova globally/on the entire machine rather than in the node_modules subdirectory of the current working directly. 
 
+===
 
 ## Installation Android
 
@@ -37,3 +38,8 @@ Create a Development folder in your Users directly, so for example this is where
 then unzip your Android SDK file into the Development directly.
 
 * OS X:
+You can either repeat the windows step or Create a seperate Android folder for the SDK. Make sure to make a development folder, you do not want to have all of your app code bundled up in your main work folder. 
+
+* Environment Variables:
+
+Setup your paths to both the android SDK tools & platform-tools on both Windows/OS X. 
