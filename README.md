@@ -53,7 +53,7 @@ You can either repeat the windows step or Create a seperate Android folder for t
 
 Setup your paths to both the android SDK tools & platform-tools on both Windows/OS X. You may also need to enable Java.
 
-### Step 3: Android SDK
+### Android SDK
 
 * Initial setup for the Android based apps require Eclipse to be installed and for all relevant tool sets to be updated and installed from the Android SDK Manager. 
 
@@ -62,13 +62,13 @@ Setup your paths to both the android SDK tools & platform-tools on both Windows/
 * Create a workspace for your apps through Eciplse.
 
 
-## Step 4: Default App Template Setup
+## Step 3: Default App Template Setup
 
 This is a basic run through to have a default cordova app for the moment. 
 
 So go to your main development directly in your command line tool.
 
-### Step 5: Cordova Create
+### Cordova Create
 - The first arguement helloworld is the app folder to be generated. Make sure this folder does not already exsit.
 
  - The second arguement is a revserce domain identfiter
@@ -79,7 +79,7 @@ So go to your main development directly in your command line tool.
 
 * cordova create helloworld com.example.hello HelloWorld 
 
-### Step 6: Add Platforms
+### Add Platforms
 
 You have a few platforms to chose from however this command will only work if each has its SDK or development enviroment setup.
 
@@ -90,7 +90,7 @@ You have a few platforms to chose from however this command will only work if ea
 
  Always run platform ls to check the platforms have installed properly. 
 
- ### Step 7: Build the App
+ ### Build the App
 
 
 
