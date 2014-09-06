@@ -56,19 +56,19 @@ You can either repeat the windows step or Create a seperate Android folder for t
 
 Setup your paths to both the android SDK tools & platform-tools on both Windows/OS X. 
 
-
-## Default App Template Setup
-
-This is a basic run through to have a default cordova app for the moment. 
-
-
 ### Android SDK
 
 1. Initial setup for the Android based apps require Eclipse to be installed and for all relvaent tool sets to be updated and installed from the Android SDK Manager. 
 
 2. I recommened following the Android SDK setup through their website or through a tutorial. This is only required on first time setup so everything can then be done through Cordova command line. 
 
-
 3. Create a workspace for your apps through Eciplse.
- 
+
+
+## Default App Template Setup
+
+This is a basic run through to have a default cordova app for the moment. 
+
+
+
 
